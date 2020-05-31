@@ -1,0 +1,4 @@
+# ./Gemfile
+
+- permata "minima", "~> 2.5"
++ permata "jekyll-theme-minimal"
